@@ -1,1 +1,0 @@
-Espero adquirir experiencia profissional na area de programação de software, e com isso ter conhecimento o suficiente para trabalhar na area.

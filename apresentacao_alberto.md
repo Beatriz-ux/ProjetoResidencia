@@ -1,1 +1,0 @@
-Meu nome é Alberto Henrique, sou estudante de ciencia da computação
