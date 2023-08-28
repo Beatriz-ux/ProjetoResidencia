@@ -7,5 +7,5 @@ de jogos, onde em uma semana criou um jogo junto a um amigo, Yohanan Santana.
 Também já participou de uma iniciação científica, onde ministrou um
 minicurso sobre energia nuclear. Atualmente trabalhando em seu jogo
 intitulado de Bomber Robot. Estudante do programa de Residência
-em Software do CEPEDI-UESC
+em Software do CEPEDI-UESC.
 
